@@ -58,9 +58,9 @@
     "url": "http://antever4.antever.com.br",
     "icon": "https://favicons.githubusercontent.com/antever4.antever.com.br",
     "slug": "antever-antever-4",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -69,7 +69,9 @@
     "timeWeek": 277,
     "timeMonth": 277,
     "timeYear": 277,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-31": 0
+    }
   },
   {
     "name": "Exponential KH",
