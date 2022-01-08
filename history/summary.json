@@ -40,7 +40,7 @@
     "url": "http://raptor3.netbit.com.br",
     "icon": "https://favicons.githubusercontent.com/raptor3.netbit.com.br",
     "slug": "netbit-raptor-3",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -51,7 +51,9 @@
     "timeWeek": 465,
     "timeMonth": 364,
     "timeYear": 364,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-08": 0
+    }
   },
   {
     "name": "Antever ANTEVER4",
