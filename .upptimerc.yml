@@ -7,8 +7,8 @@ sites:
     url: https://www.google.com
   - name: Unihost EAGLE2
     url: http://eagle2.unihostbrasil.com.br
-  - name: Netbit RAPTOR3
-    url: http://raptor3.netbit.com.br
+  - name: Netbit RAPTOR4
+    url: http://raptor4.netbit.com.br
   - name: Antever ANTEVER4
     url: http://antever4.antever.com.br
   - name: Exponential KH
