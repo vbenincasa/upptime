@@ -78,9 +78,9 @@
     "url": "http://exponentialhost.com.br",
     "icon": "https://favicons.githubusercontent.com/exponentialhost.com.br",
     "slug": "exponential-kh",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -90,6 +90,7 @@
     "timeMonth": 1424,
     "timeYear": 1439,
     "dailyMinutesDown": {
+      "2022-03-29": 0,
       "2022-01-18": 17
     }
   }
