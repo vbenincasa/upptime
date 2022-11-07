@@ -22,19 +22,19 @@
     "url": "http://eagle2.unihostbrasil.com.br",
     "icon": "https://icons.duckduckgo.com/ip3/eagle2.unihostbrasil.com.br.ico",
     "slug": "unihost-eagle-2",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.77%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 305,
-    "timeDay": 381,
-    "timeWeek": 289,
-    "timeMonth": 282,
-    "timeYear": 305,
+    "time": 304,
+    "timeDay": 289,
+    "timeWeek": 278,
+    "timeMonth": 280,
+    "timeYear": 304,
     "dailyMinutesDown": {
-      "2022-11-07": 0
+      "2022-11-07": 18
     }
   },
   {
