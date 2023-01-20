@@ -42,19 +42,19 @@
     "url": "http://raptor4.netbit.com.br",
     "icon": "https://icons.duckduckgo.com/ip3/raptor4.netbit.com.br.ico",
     "slug": "netbit-raptor-4",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.39%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 281,
-    "timeDay": 204,
-    "timeWeek": 211,
-    "timeMonth": 249,
+    "timeDay": 288,
+    "timeWeek": 231,
+    "timeMonth": 253,
     "timeYear": 281,
     "dailyMinutesDown": {
-      "2023-01-20": 0
+      "2023-01-20": 9
     }
   },
   {
