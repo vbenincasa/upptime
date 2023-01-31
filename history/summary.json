@@ -22,10 +22,10 @@
     "url": "http://eagle2.unihostbrasil.com.br",
     "icon": "https://icons.duckduckgo.com/ip3/eagle2.unihostbrasil.com.br.ico",
     "slug": "unihost-eagle-2",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 295,
@@ -34,6 +34,7 @@
     "timeMonth": 273,
     "timeYear": 292,
     "dailyMinutesDown": {
+      "2023-01-31": 1,
       "2022-11-07": 18
     }
   },
@@ -42,10 +43,10 @@
     "url": "http://raptor4.netbit.com.br",
     "icon": "https://icons.duckduckgo.com/ip3/raptor4.netbit.com.br.ico",
     "slug": "netbit-raptor-4",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 282,
@@ -53,16 +54,18 @@
     "timeWeek": 326,
     "timeMonth": 262,
     "timeYear": 282,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-31": 1
+    }
   },
   {
     "name": "Antever ANTEVER4",
     "url": "http://antever4.antever.com.br",
     "icon": "https://icons.duckduckgo.com/ip3/antever4.antever.com.br.ico",
     "slug": "antever-antever-4",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -71,7 +74,9 @@
     "timeWeek": 314,
     "timeMonth": 264,
     "timeYear": 306,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-31": 0
+    }
   },
   {
     "name": "Exponential KH",
