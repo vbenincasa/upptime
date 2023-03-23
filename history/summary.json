@@ -22,10 +22,10 @@
     "url": "http://eagle2.unihostbrasil.com.br",
     "icon": "https://icons.duckduckgo.com/ip3/eagle2.unihostbrasil.com.br.ico",
     "slug": "unihost-eagle-2",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 294,
@@ -34,6 +34,7 @@
     "timeMonth": 316,
     "timeYear": 285,
     "dailyMinutesDown": {
+      "2023-03-23": 1,
       "2022-11-07": 18
     }
   },
@@ -42,9 +43,9 @@
     "url": "http://raptor4.netbit.com.br",
     "icon": "https://icons.duckduckgo.com/ip3/raptor4.netbit.com.br.ico",
     "slug": "netbit-raptor-4",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -53,7 +54,9 @@
     "timeWeek": 275,
     "timeMonth": 300,
     "timeYear": 280,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-03-23": 0
+    }
   },
   {
     "name": "Antever ANTEVER4",
