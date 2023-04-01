@@ -60,9 +60,9 @@
     "url": "http://antever4.antever.com.br",
     "icon": "https://icons.duckduckgo.com/ip3/antever4.antever.com.br.ico",
     "slug": "antever-antever-4",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -71,7 +71,9 @@
     "timeWeek": 261,
     "timeMonth": 284,
     "timeYear": 296,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-04-01": 0
+    }
   },
   {
     "name": "Exponential KH",
