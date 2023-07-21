@@ -4,18 +4,20 @@
     "url": "https://www.google.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "google",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 105,
-    "timeDay": 61,
-    "timeWeek": 124,
-    "timeMonth": 102,
-    "timeYear": 109,
-    "dailyMinutesDown": {}
+    "timeDay": 278,
+    "timeWeek": 171,
+    "timeMonth": 114,
+    "timeYear": 110,
+    "dailyMinutesDown": {
+      "2023-07-21": 0
+    }
   },
   {
     "name": "Unihost EAGLE2",
@@ -89,7 +91,7 @@
     "time": 1419,
     "timeDay": 1136,
     "timeWeek": 1361,
-    "timeMonth": 1631,
+    "timeMonth": 1625,
     "timeYear": 1421,
     "dailyMinutesDown": {
       "2023-05-28": 18,
