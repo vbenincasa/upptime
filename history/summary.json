@@ -33,7 +33,7 @@
     "uptimeYear": "100.00%",
     "time": 271,
     "timeDay": 315,
-    "timeWeek": 258,
+    "timeWeek": 268,
     "timeMonth": 247,
     "timeYear": 272,
     "dailyMinutesDown": {
@@ -83,9 +83,9 @@
     "url": "http://exponentialhost.com.br",
     "icon": "https://icons.duckduckgo.com/ip3/exponentialhost.com.br.ico",
     "slug": "exponential-kh",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
@@ -95,6 +95,7 @@
     "timeMonth": 1086,
     "timeYear": 1412,
     "dailyMinutesDown": {
+      "2023-10-16": 0,
       "2023-05-28": 18,
       "2023-02-11": 17,
       "2023-02-04": 23,
