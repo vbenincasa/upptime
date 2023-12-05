@@ -14,7 +14,7 @@
     "timeDay": 71,
     "timeWeek": 83,
     "timeMonth": 87,
-    "timeYear": 112,
+    "timeYear": 111,
     "dailyMinutesDown": {
       "2023-08-03": 16,
       "2023-07-21": 18
@@ -25,9 +25,9 @@
     "url": "http://eagle2.unihostbrasil.com.br",
     "icon": "https://icons.duckduckgo.com/ip3/eagle2.unihostbrasil.com.br.ico",
     "slug": "unihost-eagle-2",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -36,7 +36,9 @@
     "timeWeek": 280,
     "timeMonth": 260,
     "timeYear": 271,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-05": 0
+    }
   },
   {
     "name": "Netbit RAPTOR4",
