@@ -47,9 +47,9 @@
     "url": "http://raptor4.netbit.com.br",
     "icon": "https://icons.duckduckgo.com/ip3/raptor4.netbit.com.br.ico",
     "slug": "netbit-raptor-4",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -58,7 +58,9 @@
     "timeWeek": 248,
     "timeMonth": 244,
     "timeYear": 271,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-03": 0
+    }
   },
   {
     "name": "Antever ANTEVER4",
