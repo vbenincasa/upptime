@@ -9,16 +9,13 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
+    "uptimeYear": "100.00%",
     "time": 111,
-    "timeDay": 140,
-    "timeWeek": 119,
-    "timeMonth": 111,
+    "timeDay": 139,
+    "timeWeek": 121,
+    "timeMonth": 112,
     "timeYear": 112,
-    "dailyMinutesDown": {
-      "2024-05-01": 26,
-      "2023-08-03": 16
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Unihost EAGLE2",
@@ -26,22 +23,17 @@
     "icon": "https://unihostbrasil.com.br/favicon.ico",
     "slug": "unihost-eagle-2",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.93%",
+    "uptimeYear": "100.00%",
     "time": 373,
-    "timeDay": 306,
-    "timeWeek": 313,
-    "timeMonth": 464,
-    "timeYear": 403,
-    "dailyMinutesDown": {
-      "2024-03-24": 219,
-      "2023-12-08": 47,
-      "2023-12-06": 45,
-      "2023-12-05": 63
-    }
+    "timeDay": 315,
+    "timeWeek": 317,
+    "timeMonth": 461,
+    "timeYear": 402,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Netbit RAPTOR4",
@@ -49,20 +41,17 @@
     "icon": "https://netbit.com.br/favicon.ico",
     "slug": "netbit-raptor-4",
     "status": "up",
-    "uptime": "99.99%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
+    "uptimeYear": "100.00%",
     "time": 271,
-    "timeDay": 320,
-    "timeWeek": 316,
-    "timeMonth": 296,
+    "timeDay": 324,
+    "timeWeek": 318,
+    "timeMonth": 298,
     "timeYear": 266,
-    "dailyMinutesDown": {
-      "2024-05-13": 42,
-      "2024-01-03": 37
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Antever ANTEVER4",
@@ -70,19 +59,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/antever4.antever.com.br.ico",
     "slug": "antever-antever-4",
     "status": "up",
-    "uptime": "0.00%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "0.00%",
+    "uptimeYear": "100.00%",
     "time": 270,
-    "timeDay": 288,
-    "timeWeek": 296,
-    "timeMonth": 418,
+    "timeDay": 277,
+    "timeWeek": 292,
+    "timeMonth": 413,
     "timeYear": 267,
-    "dailyMinutesDown": {
-      "2023-10-30": 18
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Antever ANTEVER5",
@@ -95,11 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 287,
-    "timeDay": 287,
-    "timeWeek": 287,
-    "timeMonth": 287,
-    "timeYear": 287,
+    "time": 291,
+    "timeDay": 291,
+    "timeWeek": 291,
+    "timeMonth": 291,
+    "timeYear": 291,
     "dailyMinutesDown": {}
   },
   {
@@ -113,11 +100,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 146,
-    "timeDay": 146,
-    "timeWeek": 146,
-    "timeMonth": 146,
-    "timeYear": 146,
+    "time": 147,
+    "timeDay": 147,
+    "timeWeek": 147,
+    "timeMonth": 147,
+    "timeYear": 147,
     "dailyMinutesDown": {}
   },
   {
@@ -131,11 +118,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 74,
-    "timeDay": 74,
-    "timeWeek": 74,
-    "timeMonth": 74,
-    "timeYear": 74,
+    "time": 87,
+    "timeDay": 87,
+    "timeWeek": 87,
+    "timeMonth": 87,
+    "timeYear": 87,
     "dailyMinutesDown": {}
   },
   {
@@ -149,11 +136,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 155,
-    "timeDay": 155,
-    "timeWeek": 155,
-    "timeMonth": 155,
-    "timeYear": 155,
+    "time": 179,
+    "timeDay": 179,
+    "timeWeek": 179,
+    "timeMonth": 179,
+    "timeYear": 179,
     "dailyMinutesDown": {}
   },
   {
@@ -167,11 +154,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 178,
-    "timeDay": 178,
-    "timeWeek": 178,
-    "timeMonth": 178,
-    "timeYear": 178,
+    "time": 177,
+    "timeDay": 177,
+    "timeWeek": 177,
+    "timeMonth": 177,
+    "timeYear": 177,
     "dailyMinutesDown": {}
   },
   {
@@ -185,11 +172,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 195,
-    "timeDay": 195,
-    "timeWeek": 195,
-    "timeMonth": 195,
-    "timeYear": 195,
+    "time": 205,
+    "timeDay": 205,
+    "timeWeek": 205,
+    "timeMonth": 205,
+    "timeYear": 205,
     "dailyMinutesDown": {}
   },
   {
@@ -203,11 +190,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 431,
-    "timeDay": 431,
-    "timeWeek": 431,
-    "timeMonth": 431,
-    "timeYear": 431,
+    "time": 436,
+    "timeDay": 436,
+    "timeWeek": 436,
+    "timeMonth": 436,
+    "timeYear": 436,
     "dailyMinutesDown": {}
   }
 ]
