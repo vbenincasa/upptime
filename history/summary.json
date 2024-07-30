@@ -71,9 +71,9 @@
     "slug": "antever-antever-4",
     "status": "up",
     "uptime": "0.00%",
-    "uptimeDay": "6.41%",
-    "uptimeWeek": "6.41%",
-    "uptimeMonth": "6.41%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "0.00%",
     "time": 270,
     "timeDay": 288,
@@ -81,7 +81,6 @@
     "timeMonth": 418,
     "timeYear": 267,
     "dailyMinutesDown": {
-      "2024-07-30": 2,
       "2023-10-30": 18
     }
   },
