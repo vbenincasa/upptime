@@ -7,22 +7,32 @@ sites:
     url: https://www.google.com
   - name: Unihost EAGLE2
     url: https://eagle2.unihostbrasil.com.br
+    icon: https://unihostbrasil.com.br/favicon.ico
   - name: Netbit RAPTOR4
     url: https://raptor4.netbit.com.br
+    icon: https://netbit.com.br/favicon.ico
+  - name: Antever ANTEVER4
+    url: https://antever4.antever.com.br
   - name: Antever ANTEVER5
     url: https://antever5.antever.com.br
   - name: DA Licensing
     url: https://licensing.directadmin.com
+    icon: https://directadmin.com/favicon.png
   - name: DA Files
     url: https://files.directadmin.com
+    icon: https://directadmin.com/favicon.png
   - name: HV TPA
     url: https://speedtest.tpa.hivelocity.net
+    icon: https://www.hivelocity.net/favicon.ico
   - name: HV TPA2
     url: https://speedtest.tpa2.hivelocity.net
+    icon: https://www.hivelocity.net/favicon.ico
   - name: HV MIA
     url: https://speedtest.mia.hivelocity.net
+    icon: https://www.hivelocity.net/favicon.ico
   - name: HV SAO
     url: https://speedtest.sao1.hivelocity.net
+    icon: https://www.hivelocity.net/favicon.ico
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -31,8 +41,8 @@ status-website:
   baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "**Upptime** monitor"
+  introMessage: 
   navbar:
     - title: Status
       href: /
