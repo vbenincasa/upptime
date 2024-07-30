@@ -6,13 +6,23 @@ sites:
   - name: Google
     url: https://www.google.com
   - name: Unihost EAGLE2
-    url: http://eagle2.unihostbrasil.com.br
+    url: https://eagle2.unihostbrasil.com.br
   - name: Netbit RAPTOR4
-    url: http://raptor4.netbit.com.br
-  - name: Antever ANTEVER4
-    url: http://antever4.antever.com.br
-  - name: Exponential KH
-    url: http://exponentialhost.com.br
+    url: https://raptor4.netbit.com.br
+  - name: Antever ANTEVER5
+    url: https://antever5.antever.com.br
+  - name: DA Licensing
+    url: https://licensing.directadmin.com
+  - name: DA Files
+    url: https://files.directadmin.com
+  - name: HV TPA
+    url: https://speedtest.tpa.hivelocity.net
+  - name: HV TPA2
+    url: https://speedtest.tpa2.hivelocity.net
+  - name: HV MIA
+    url: https://speedtest.mia.hivelocity.net
+  - name: HV SAO
+    url: https://speedtest.sao1.hivelocity.net
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
