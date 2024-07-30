@@ -12,7 +12,7 @@ sites:
     url: https://raptor4.netbit.com.br
     icon: https://netbit.com.br/favicon.ico
   - name: Antever ANTEVER4
-    url: https://antever4.antever.com.br
+    url: http://antever4.antever.com.br
   - name: Antever ANTEVER5
     url: https://antever5.antever.com.br
   - name: DA Licensing
