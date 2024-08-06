@@ -22,19 +22,19 @@
     "url": "https://eagle2.unihostbrasil.com.br",
     "icon": "https://unihostbrasil.com.br/favicon.ico",
     "slug": "unihost-eagle-2",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.15%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 375,
-    "timeDay": 375,
-    "timeWeek": 347,
-    "timeMonth": 328,
+    "time": 376,
+    "timeDay": 420,
+    "timeWeek": 355,
+    "timeMonth": 332,
     "timeYear": 404,
     "dailyMinutesDown": {
-      "2024-08-06": 0
+      "2024-08-06": 12
     }
   },
   {
