@@ -22,9 +22,9 @@
     "url": "https://eagle2.unihostbrasil.com.br",
     "icon": "https://unihostbrasil.com.br/favicon.ico",
     "slug": "unihost-eagle-2",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 464,
     "timeMonth": 398,
     "timeYear": 412,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-02": 0
+    }
   },
   {
     "name": "Netbit RAPTOR4",
