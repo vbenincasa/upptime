@@ -169,9 +169,9 @@
     "url": "https://speedtest.mia.hivelocity.net",
     "icon": "https://www.hivelocity.net/favicon.ico",
     "slug": "hv-mia",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -180,7 +180,9 @@
     "timeWeek": 192,
     "timeMonth": 216,
     "timeYear": 220,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-20": 0
+    }
   },
   {
     "name": "HV SAO",
