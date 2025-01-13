@@ -45,18 +45,16 @@
     "slug": "netbit-raptor-4",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 304,
     "timeDay": 476,
     "timeWeek": 420,
     "timeMonth": 376,
     "timeYear": 322,
-    "dailyMinutesDown": {
-      "2025-01-13": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Antever ANTEVER4",
@@ -81,9 +79,9 @@
     "url": "https://antever5.antever.com.br",
     "icon": "https://icons.duckduckgo.com/ip3/antever5.antever.com.br.ico",
     "slug": "antever-antever-5",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -92,7 +90,9 @@
     "timeWeek": 387,
     "timeMonth": 341,
     "timeYear": 340,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-13": 0
+    }
   },
   {
     "name": "DA Licensing",
