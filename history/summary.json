@@ -43,10 +43,10 @@
     "url": "https://raptor4.netbit.com.br",
     "icon": "https://netbit.com.br/favicon.ico",
     "slug": "netbit-raptor-4",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 304,
@@ -54,17 +54,19 @@
     "timeWeek": 420,
     "timeMonth": 376,
     "timeYear": 322,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-13": 1
+    }
   },
   {
     "name": "Antever ANTEVER4",
     "url": "http://antever4.antever.com.br",
     "icon": "https://icons.duckduckgo.com/ip3/antever4.antever.com.br.ico",
     "slug": "antever-antever-4",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 272,
@@ -72,7 +74,9 @@
     "timeWeek": 327,
     "timeMonth": 282,
     "timeYear": 282,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-13": 1
+    }
   },
   {
     "name": "Antever ANTEVER5",
@@ -80,18 +84,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/antever5.antever.com.br.ico",
     "slug": "antever-antever-5",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.12%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
     "time": 340,
     "timeDay": 473,
     "timeWeek": 387,
     "timeMonth": 341,
     "timeYear": 340,
     "dailyMinutesDown": {
-      "2025-01-13": 0
+      "2025-01-13": 13
     }
   },
   {
