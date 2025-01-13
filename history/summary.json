@@ -43,19 +43,19 @@
     "url": "https://raptor4.netbit.com.br",
     "icon": "https://netbit.com.br/favicon.ico",
     "slug": "netbit-raptor-4",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.38%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 304,
-    "timeDay": 504,
-    "timeWeek": 416,
-    "timeMonth": 373,
-    "timeYear": 321,
+    "timeDay": 476,
+    "timeWeek": 420,
+    "timeMonth": 376,
+    "timeYear": 322,
     "dailyMinutesDown": {
-      "2025-01-13": 0
+      "2025-01-13": 9
     }
   },
   {
