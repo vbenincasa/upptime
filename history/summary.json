@@ -43,9 +43,9 @@
     "url": "https://raptor4.netbit.com.br",
     "icon": "https://netbit.com.br/favicon.ico",
     "slug": "netbit-raptor-4",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -54,7 +54,9 @@
     "timeWeek": 416,
     "timeMonth": 373,
     "timeYear": 321,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-13": 0
+    }
   },
   {
     "name": "Antever ANTEVER4",
@@ -170,11 +172,11 @@
     "icon": "https://www.hivelocity.net/favicon.ico",
     "slug": "hv-mia",
     "status": "up",
-    "uptime": "92.21%",
+    "uptime": "92.22%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "57.42%",
-    "uptimeYear": "92.21%",
+    "uptimeYear": "92.22%",
     "time": 221,
     "timeDay": 229,
     "timeWeek": 219,
