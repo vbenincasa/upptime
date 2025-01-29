@@ -4,9 +4,9 @@
     "url": "https://www.google.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "google",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 130,
     "timeMonth": 111,
     "timeYear": 110,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-29": 0
+    }
   },
   {
     "name": "Unihost EAGLE2",
@@ -172,18 +174,18 @@
     "icon": "https://www.hivelocity.net/favicon.ico",
     "slug": "hv-mia",
     "status": "down",
-    "uptime": "86.68%",
+    "uptime": "86.60%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "46.94%",
-    "uptimeYear": "86.68%",
+    "uptimeYear": "86.60%",
     "time": 221,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 222,
     "timeYear": 221,
     "dailyMinutesDown": {
-      "2025-01-29": 36,
+      "2025-01-29": 293,
       "2025-01-28": 1440,
       "2025-01-27": 1440,
       "2025-01-26": 1440,
