@@ -183,18 +183,18 @@
     "icon": "https://www.hivelocity.net/favicon.ico",
     "slug": "hv-mia",
     "status": "down",
-    "uptime": "48.14%",
+    "uptime": "48.03%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "48.14%",
+    "uptimeYear": "48.03%",
     "time": 221,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 221,
     "dailyMinutesDown": {
-      "2025-06-24": 44,
+      "2025-06-24": 1116,
       "2025-06-23": 1440,
       "2025-06-22": 1440,
       "2025-06-21": 1440,
@@ -374,9 +374,9 @@
     "url": "https://speedtest.sao1.hivelocity.net",
     "icon": "https://www.hivelocity.net/favicon.ico",
     "slug": "hv-sao",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -385,6 +385,8 @@
     "timeWeek": 527,
     "timeMonth": 510,
     "timeYear": 533,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-06-24": 0
+    }
   }
 ]
