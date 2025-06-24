@@ -194,7 +194,7 @@
     "timeMonth": 0,
     "timeYear": 221,
     "dailyMinutesDown": {
-      "2025-06-24": 1116,
+      "2025-06-24": 1135,
       "2025-06-23": 1440,
       "2025-06-22": 1440,
       "2025-06-21": 1440,
@@ -374,19 +374,19 @@
     "url": "https://speedtest.sao1.hivelocity.net",
     "icon": "https://www.hivelocity.net/favicon.ico",
     "slug": "hv-sao",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.74%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 533,
-    "timeDay": 454,
-    "timeWeek": 527,
-    "timeMonth": 510,
-    "timeYear": 533,
+    "time": 563,
+    "timeDay": 5448,
+    "timeWeek": 1766,
+    "timeMonth": 821,
+    "timeYear": 563,
     "dailyMinutesDown": {
-      "2025-06-24": 0
+      "2025-06-24": 18
     }
   }
 ]
