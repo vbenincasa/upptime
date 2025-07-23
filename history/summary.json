@@ -150,19 +150,19 @@
     "url": "https://speedtest.tpa.hivelocity.net",
     "icon": "https://www.hivelocity.net/favicon.ico",
     "slug": "hv-tpa",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.95%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 275,
-    "timeDay": 385,
-    "timeWeek": 270,
-    "timeMonth": 268,
+    "timeDay": 269,
+    "timeWeek": 255,
+    "timeMonth": 264,
     "timeYear": 275,
     "dailyMinutesDown": {
-      "2025-07-23": 0
+      "2025-07-23": 15
     }
   },
   {
@@ -200,7 +200,7 @@
     "timeMonth": 0,
     "timeYear": 221,
     "dailyMinutesDown": {
-      "2025-07-23": 683,
+      "2025-07-23": 698,
       "2025-07-22": 1440,
       "2025-07-21": 1440,
       "2025-07-20": 1440,
