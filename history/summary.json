@@ -98,9 +98,9 @@
     "url": "https://antever5.antever.com.br",
     "icon": "https://icons.duckduckgo.com/ip3/antever5.antever.com.br.ico",
     "slug": "antever-antever-5",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -110,6 +110,7 @@
     "timeMonth": 334,
     "timeYear": 343,
     "dailyMinutesDown": {
+      "2025-11-08": 0,
       "2025-01-13": 20
     }
   },
@@ -202,14 +203,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "15.61%",
+    "uptimeYear": "15.60%",
     "time": 221,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 216,
     "dailyMinutesDown": {
-      "2025-11-08": 1104,
+      "2025-11-08": 1124,
       "2025-11-07": 1440,
       "2025-11-06": 1440,
       "2025-11-05": 1440,
